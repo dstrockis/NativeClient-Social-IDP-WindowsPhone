@@ -1,0 +1,2 @@
+NativeClient-Social-IDP-WindowsPhone
+====================================
